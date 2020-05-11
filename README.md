@@ -1,7 +1,9 @@
 # franchise_a_business
 
 
-[predict](predictions_toronto.png)
+__[Refer to Notebook]()__ to interact with the map and download the dataset
+
+![map](predictions_toronto.png)
 
 
 __Problem:__ 
