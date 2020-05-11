@@ -1,7 +1,7 @@
 # franchise_a_business
 
 
-__[Refer to Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/b00d9d5b-abc0-4e31-9c99-7bfc3bee29c8/view?access_token=2ae0962fd12ad9b3a061190962d9cf1e18620581e739deb9f84bc0a271aa3825)__ to interact with the map and download the dataset
+__[Refer to Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/b00d9d5b-abc0-4e31-9c99-7bfc3bee29c8/view?access_token=2ae0962fd12ad9b3a061190962d9cf1e18620581e739deb9f84bc0a271aa3825)__ to interact with the map and view the report.
 
 ![map](predictions_toronto.png)
 
