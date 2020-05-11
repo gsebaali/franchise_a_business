@@ -8,7 +8,7 @@ __[Refer to Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/
 
 __Problem:__ 
 
-There are a lot of factors that can contribute to whether to open a franchise in a neighborhood or not. These factors include demographic (such as size of population, household breakdown etc.), socioeconomic (age range, gender, preferences) and geographical factors [2].
+There are a lot of factors that can contribute to whether to open a franchise in a neighborhood or not. These factors include demographic (such as size of population, household breakdown etc.), socioeconomic (age range, gender, preferences) and geographical factors.
 
 This report focusses on helping business owners identify the neighborhood where to open a Trader Joe's, an American chain of grocery stores headquartered in Monrovia, California. The report specifically studies geographical locations in California to assess how likely is a certain location with no Trader Joes to be a good investment to open one. A prediction is then made on the city of Toronto to assess the likelihood of each neighborhood being good location for opening a Trader Joe's store.
 
@@ -17,10 +17,9 @@ This project aims to predict the probability of a certain geographical location 
 
 __Data Source:__
 
-- California dataset
-- API Geocoder for geocoordinates
-- [Canada's open data catalog](https://www.toronto.ca/ext/open_data/catalog/data_set_files/2016_neighbourhood_profiles.csv) for data on 140 different neighborhoods in Toronto 
-- Geocoders API for Toronto neighboorhoods' geo-coordinates
+- API Geocoder for fetching geo-coordinates of neighborhoods in Toronto and California
+- [Canada's open data catalog](https://www.toronto.ca/ext/open_data/catalog/data_set_files/2016_neighbourhood_profiles.csv) for data on 140 different neighborhoods in Toronto
+- California's list of neighborhoods
 - [Foursquare API](https://foursquare.com) for top trending venues in each neighborhood in California and Toronto
 
 __Python Packages:__
