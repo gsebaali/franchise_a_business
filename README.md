@@ -1,6 +1,9 @@
 # franchise_a_business
 
 
+[predict](predictions_toronto.png)
+
+
 __Problem:__ 
 
 There are a lot of factors that can contribute to whether to open a franchise in a neighborhood or not. These factors include demographic (such as size of population, household breakdown etc.), socioeconomic (age range, gender, preferences) and geographical factors [2].
